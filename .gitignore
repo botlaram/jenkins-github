@@ -1,0 +1,7 @@
+__pycache__/
+
+.nox/
+
+.pytest_cache/
+
+.venv/
